@@ -1,4 +1,4 @@
-# Lab 07 - Basics of React
+# Lab 05 - Basics of React
 
 ## Tasks
 ### 1. Create and run basic app
